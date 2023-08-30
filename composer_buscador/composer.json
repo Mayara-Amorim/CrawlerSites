@@ -1,0 +1,18 @@
+{
+  "name": "mayaraamorim/composer_buscador",
+  "description": "Projeto que busca cursos na Alura",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Mayara Amorim",
+      "email": "moreiraamorim.business@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.8",
+    "symfony/dom-crawler": "^6.3",
+    "symfony/css-selector": "^6.3"
+
+  }
+}

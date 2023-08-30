@@ -1,0 +1,2 @@
+<?php
+echo "Boas vindas ao mundo PHP" . PHP_EOL;
