@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'mayaraamorim/composer_buscador',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '6b696ca756679284a252a5d4baed2422bf9a54be',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -47,9 +47,9 @@
             'dev_requirement' => false,
         ),
         'mayaraamorim/composer_buscador' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '6b696ca756679284a252a5d4baed2422bf9a54be',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
