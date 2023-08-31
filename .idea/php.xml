@@ -10,6 +10,27 @@
     <option name="highlightLevel" value="WARNING" />
     <option name="transferred" value="true" />
   </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/composer_buscador/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/composer_buscador/vendor/composer" />
+      <path value="$PROJECT_DIR$/composer_buscador/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/composer_buscador/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/composer_buscador/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/composer_buscador/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/composer_buscador/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/composer_buscador/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/composer_buscador/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/composer_buscador/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/composer_buscador/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/composer_buscador/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/composer_buscador/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/composer_buscador/vendor/guzzlehttp/guzzle" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.4">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
   <component name="PhpStanOptionsConfiguration">
     <option name="transferred" value="true" />
   </component>

@@ -1,6 +1,16 @@
 <?php
 
 namespace Alura\BuscadorDeCursos;
+//composer dump-autoload para atualizar o composer json
+//"autoload": {
+        //"classmap": ""[
+    //            ./Teste.php (diretorio base + nome do arquivo ou Classe)
+      //  ]
+       // "psr-4": {
+          //"Alura\\BuscadorDeCursos\\" : "src/"
+       // }
+// vendor\bin\phpcs --standard=PSR12 composer_buscador/src/
+
 
 use GuzzleHttp\ClientInterface;
 use Symfony\Component\DomCrawler\Crawler;

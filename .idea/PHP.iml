@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="WEB_MODULE" version="4">
   <component name="NewModuleRootManager">
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/POO/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/composer_buscador/src" isTestSource="false" packagePrefix="Alura\BuscadorDeCursos\" />
+      <excludeFolder url="file://$MODULE_DIR$/composer_buscador/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/composer_buscador/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/composer_buscador/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/composer_buscador/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/composer_buscador/vendor/masterminds/html5" />
+      <excludeFolder url="file://$MODULE_DIR$/composer_buscador/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/composer_buscador/vendor/psr/http-factory" />
+      <excludeFolder url="file://$MODULE_DIR$/composer_buscador/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/composer_buscador/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/composer_buscador/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/composer_buscador/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/composer_buscador/vendor/symfony/dom-crawler" />
+      <excludeFolder url="file://$MODULE_DIR$/composer_buscador/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/composer_buscador/vendor/symfony/polyfill-mbstring" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

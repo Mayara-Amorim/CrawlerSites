@@ -37,6 +37,10 @@ class ComposerStaticInit11702e842f99bb14b31d7b898d5ff5e9
             'GuzzleHttp\\Promise\\' => 19,
             'GuzzleHttp\\' => 11,
         ),
+        'A' => 
+        array (
+            'Alura\\BuscadorDeCursos\\' => 23,
+        ),
     );
 
     public static $prefixDirsPsr4 = array (
@@ -80,6 +84,10 @@ class ComposerStaticInit11702e842f99bb14b31d7b898d5ff5e9
         'GuzzleHttp\\' => 
         array (
             0 => __DIR__ . '/..' . '/guzzlehttp/guzzle/src',
+        ),
+        'Alura\\BuscadorDeCursos\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/src',
         ),
     );
 
